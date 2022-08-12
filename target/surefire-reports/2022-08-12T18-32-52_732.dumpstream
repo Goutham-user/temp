@@ -1,0 +1,4 @@
+# Created at 2022-08-12T18:32:53.646
+Boot Manifest-JAR contains absolute paths in classpath 'D:\mockito\mockitodemo\mockito2\New folder\New folder\JenkinsDemo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
